@@ -1,7 +1,11 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
+<<<<<<< HEAD
 subtitle: Support sustainable farming while enjoying a cup
+=======
+subtitle: Mega
+>>>>>>> e1581cfeb71e4cd780b123621c4a9a4f5628ab67
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
@@ -69,3 +73,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
